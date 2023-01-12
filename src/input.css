@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body, html {
+    font-family: 'Mada'
+}
+
+html::-webkit-scrollbar {
+    display: none;
+}
